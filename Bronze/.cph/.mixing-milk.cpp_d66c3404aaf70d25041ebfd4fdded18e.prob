@@ -1,0 +1,1 @@
+{"name":"Local: mixing-milk","url":"c:\\Users\\user\\Desktop\\USACO\\Bronze\\mixing-milk.cpp","tests":[{"id":1794460289947,"input":"10 3\n11 4\n12 5","output":"0\n10\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\Desktop\\USACO\\Bronze\\mixing-milk.cpp","group":"local","local":true}
